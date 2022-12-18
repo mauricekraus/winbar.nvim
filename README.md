@@ -6,14 +6,14 @@
 
 ## Installation
 
-Note: winbar.nvim requires [Neovim nightly](https://github.com/neovim/neovim/releases/tag/nightly) 
+Note: winbar.nvim requires nvim 8+
 
-[nvim-gps](https://github.com/SmiteshP/nvim-gps) and [nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) are optional. nvim-gps for the symbols and web-devicons for file icons.
+[nvim-gps](https://github.com/SmiteshP/nvim-navic) and [nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) are optional.
 
 [Packer](https://github.com/wbthomason/packer.nvim)
 
 ```lua
-use { 'fgheng/winbar.nvim' }
+use { 'mauricekraus/winbar.nvim' }
 ```
 
 ## Usage
